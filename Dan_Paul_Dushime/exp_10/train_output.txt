@@ -1,0 +1,32 @@
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+Training on ALE/Pong-v5 using mps. Output: models/Dan_Paul_Dushime/exp_10
+step     9311 | episode   10 | avg reward (last 10) -20.20 | eps 0.912
+step    18680 | episode   20 | avg reward (last 10) -20.10 | eps 0.823
+step    27757 | episode   30 | avg reward (last 10) -20.40 | eps 0.736
+step    37086 | episode   40 | avg reward (last 10) -20.40 | eps 0.648
+step    46440 | episode   50 | avg reward (last 10) -20.20 | eps 0.559
+step    55097 | episode   60 | avg reward (last 10) -20.70 | eps 0.477
+step    64245 | episode   70 | avg reward (last 10) -20.30 | eps 0.390
+step    73727 | episode   80 | avg reward (last 10) -20.00 | eps 0.300
+step    82772 | episode   90 | avg reward (last 10) -20.40 | eps 0.214
+step    91925 | episode  100 | avg reward (last 10) -20.70 | eps 0.127
+step   101182 | episode  110 | avg reward (last 10) -21.00 | eps 0.050
+step   110880 | episode  120 | avg reward (last 10) -20.40 | eps 0.050
+step   120282 | episode  130 | avg reward (last 10) -20.70 | eps 0.050
+step   130687 | episode  140 | avg reward (last 10) -20.50 | eps 0.050
+step   141831 | episode  150 | avg reward (last 10) -20.10 | eps 0.050
+step   156411 | episode  160 | avg reward (last 10) -18.60 | eps 0.050
+step   172450 | episode  170 | avg reward (last 10) -18.00 | eps 0.050
+step   188629 | episode  180 | avg reward (last 10) -17.80 | eps 0.050
+step   211401 | episode  190 | avg reward (last 10) -16.50 | eps 0.050
+step   234307 | episode  200 | avg reward (last 10) -16.70 | eps 0.050
+step   256095 | episode  210 | avg reward (last 10) -16.20 | eps 0.050
+step   283275 | episode  220 | avg reward (last 10) -15.70 | eps 0.050
+step   317037 | episode  230 | avg reward (last 10)  -8.90 | eps 0.050
+step   348793 | episode  240 | avg reward (last 10) -11.30 | eps 0.050
+step   380695 | episode  250 | avg reward (last 10)  -9.20 | eps 0.050
+step   412349 | episode  260 | avg reward (last 10) -11.80 | eps 0.050
+step   447867 | episode  270 | avg reward (last 10)  -8.90 | eps 0.050
+step   482142 | episode  280 | avg reward (last 10)  -9.70 | eps 0.050
+Done. Saved model, log and plot to models/Dan_Paul_Dushime/exp_10
