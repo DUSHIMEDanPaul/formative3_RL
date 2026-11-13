@@ -1,0 +1,46 @@
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+Training on ALE/Pong-v5 using mps. Output: models/Thierry_Alain_Tresor_Ibyishaka/exp_07
+step     9118 | episode   10 | avg reward (last 10) -20.30 | eps 0.927
+step    18057 | episode   20 | avg reward (last 10) -20.60 | eps 0.856
+step    27119 | episode   30 | avg reward (last 10) -20.10 | eps 0.783
+step    36015 | episode   40 | avg reward (last 10) -20.20 | eps 0.712
+step    44701 | episode   50 | avg reward (last 10) -20.60 | eps 0.642
+step    53799 | episode   60 | avg reward (last 10) -20.30 | eps 0.570
+step    62933 | episode   70 | avg reward (last 10) -20.40 | eps 0.497
+step    71585 | episode   80 | avg reward (last 10) -20.90 | eps 0.427
+step    80131 | episode   90 | avg reward (last 10) -20.60 | eps 0.359
+step    88908 | episode  100 | avg reward (last 10) -20.30 | eps 0.289
+step    97501 | episode  110 | avg reward (last 10) -20.40 | eps 0.220
+step   105890 | episode  120 | avg reward (last 10) -20.80 | eps 0.200
+step   114298 | episode  130 | avg reward (last 10) -20.70 | eps 0.200
+step   122830 | episode  140 | avg reward (last 10) -20.70 | eps 0.200
+step   131531 | episode  150 | avg reward (last 10) -20.90 | eps 0.200
+step   139942 | episode  160 | avg reward (last 10) -20.80 | eps 0.200
+step   148842 | episode  170 | avg reward (last 10) -20.50 | eps 0.200
+step   157408 | episode  180 | avg reward (last 10) -20.80 | eps 0.200
+step   166176 | episode  190 | avg reward (last 10) -20.40 | eps 0.200
+step   175336 | episode  200 | avg reward (last 10) -20.90 | eps 0.200
+step   184554 | episode  210 | avg reward (last 10) -20.50 | eps 0.200
+step   194274 | episode  220 | avg reward (last 10) -20.50 | eps 0.200
+step   203329 | episode  230 | avg reward (last 10) -20.40 | eps 0.200
+step   213259 | episode  240 | avg reward (last 10) -20.50 | eps 0.200
+step   222961 | episode  250 | avg reward (last 10) -20.40 | eps 0.200
+step   233541 | episode  260 | avg reward (last 10) -19.80 | eps 0.200
+step   244162 | episode  270 | avg reward (last 10) -19.90 | eps 0.200
+step   256100 | episode  280 | avg reward (last 10) -19.80 | eps 0.200
+step   268199 | episode  290 | avg reward (last 10) -19.60 | eps 0.200
+step   280566 | episode  300 | avg reward (last 10) -19.60 | eps 0.200
+step   293988 | episode  310 | avg reward (last 10) -19.70 | eps 0.200
+step   307897 | episode  320 | avg reward (last 10) -19.00 | eps 0.200
+step   323240 | episode  330 | avg reward (last 10) -18.60 | eps 0.200
+step   340224 | episode  340 | avg reward (last 10) -18.40 | eps 0.200
+step   356916 | episode  350 | avg reward (last 10) -18.50 | eps 0.200
+step   373968 | episode  360 | avg reward (last 10) -18.90 | eps 0.200
+step   391813 | episode  370 | avg reward (last 10) -18.20 | eps 0.200
+step   409305 | episode  380 | avg reward (last 10) -19.40 | eps 0.200
+step   427722 | episode  390 | avg reward (last 10) -18.00 | eps 0.200
+step   446486 | episode  400 | avg reward (last 10) -18.40 | eps 0.200
+step   466376 | episode  410 | avg reward (last 10) -17.50 | eps 0.200
+step   484197 | episode  420 | avg reward (last 10) -18.20 | eps 0.200
+Done. Saved model, log and plot to models/Thierry_Alain_Tresor_Ibyishaka/exp_07
