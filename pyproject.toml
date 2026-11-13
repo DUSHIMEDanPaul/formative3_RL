@@ -1,0 +1,14 @@
+[project]
+name = "atari-dqn"
+version = "0.1.0"
+description = "Deep Q-Network agent for Atari, implemented from scratch with PyTorch and Gymnasium"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ale-py>=0.12.1",
+    "gymnasium[atari]>=1.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "opencv-python-headless<5",
+    "torch>=2.15.0",
+]
