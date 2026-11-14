@@ -10,9 +10,9 @@ We implemented a Deep Q-Network (DQN) agent from scratch with PyTorch and Gymnas
 
 | Name | Role / contribution |
 |------|---------------------|
-| Jolly Gift Burabyo | DQN implementation (`train.py`, `play.py`), ran all training runs and the final model, README and demo video; learning-rate and batch-size experiments |
-| Dan Paul Dushime | Gamma experiments: analysis and presentation |
-| Thierry Alain Tresor Ibyishaka | Epsilon (exploration) experiments: analysis and presentation |
+| Jolly Gift Burabyo | Experiment setup and batch runner (`experiments.csv`, `run_experiments.py`), learning-rate and batch-size experiments, README, task allocation sheet, repo config; ran all training on Jolly's machine |
+| Dan Paul Dushime | DQN implementation (`train.py`, `play.py`), uv project setup (`pyproject.toml`, `uv.lock`), gamma experiments |
+| Thierry Alain Tresor Ibyishaka | Epsilon (exploration) experiments, final model (`dqn_model.pth`, `models/final/`), gameplay video (`record_video.py`, `gameplay.mp4`) |
 
 See `Task allocation sheet.pdf` for the full task allocation.
 
