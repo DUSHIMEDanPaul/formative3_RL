@@ -1,0 +1,36 @@
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+Training on ALE/Pong-v5 using mps. Output: models/Jolly_Gift_Burabyo/exp_06
+step     9311 | episode   10 | avg reward (last 10) -20.20 | eps 0.912
+step    18430 | episode   20 | avg reward (last 10) -20.60 | eps 0.825
+step    27684 | episode   30 | avg reward (last 10) -20.10 | eps 0.737
+step    37404 | episode   40 | avg reward (last 10) -20.00 | eps 0.645
+step    46452 | episode   50 | avg reward (last 10) -20.30 | eps 0.559
+step    55696 | episode   60 | avg reward (last 10) -20.40 | eps 0.471
+step    65159 | episode   70 | avg reward (last 10) -20.60 | eps 0.381
+step    74813 | episode   80 | avg reward (last 10) -20.60 | eps 0.289
+step    84900 | episode   90 | avg reward (last 10) -19.50 | eps 0.193
+step    95387 | episode  100 | avg reward (last 10) -19.60 | eps 0.094
+step   106968 | episode  110 | avg reward (last 10) -19.80 | eps 0.050
+step   119107 | episode  120 | avg reward (last 10) -19.30 | eps 0.050
+step   131766 | episode  130 | avg reward (last 10) -19.10 | eps 0.050
+step   146334 | episode  140 | avg reward (last 10) -17.80 | eps 0.050
+step   160576 | episode  150 | avg reward (last 10) -17.20 | eps 0.050
+step   175942 | episode  160 | avg reward (last 10) -16.90 | eps 0.050
+step   192469 | episode  170 | avg reward (last 10) -16.40 | eps 0.050
+step   209940 | episode  180 | avg reward (last 10) -15.00 | eps 0.050
+step   228194 | episode  190 | avg reward (last 10) -15.70 | eps 0.050
+step   245815 | episode  200 | avg reward (last 10) -16.70 | eps 0.050
+step   263914 | episode  210 | avg reward (last 10) -15.70 | eps 0.050
+step   283287 | episode  220 | avg reward (last 10) -14.60 | eps 0.050
+step   303680 | episode  230 | avg reward (last 10) -13.50 | eps 0.050
+step   324234 | episode  240 | avg reward (last 10) -13.00 | eps 0.050
+step   343512 | episode  250 | avg reward (last 10) -14.40 | eps 0.050
+step   362997 | episode  260 | avg reward (last 10) -14.20 | eps 0.050
+step   382893 | episode  270 | avg reward (last 10) -13.60 | eps 0.050
+step   404536 | episode  280 | avg reward (last 10) -12.40 | eps 0.050
+step   425371 | episode  290 | avg reward (last 10) -12.90 | eps 0.050
+step   448885 | episode  300 | avg reward (last 10) -11.60 | eps 0.050
+step   473045 | episode  310 | avg reward (last 10) -10.60 | eps 0.050
+step   496667 | episode  320 | avg reward (last 10)  -9.60 | eps 0.050
+Done. Saved model, log and plot to models/Jolly_Gift_Burabyo/exp_06

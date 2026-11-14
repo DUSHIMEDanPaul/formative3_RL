@@ -1,0 +1,30 @@
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+Training on ALE/Pong-v5 using mps. Output: models/Jolly_Gift_Burabyo/exp_07
+step     9311 | episode   10 | avg reward (last 10) -20.20 | eps 0.912
+step    19061 | episode   20 | avg reward (last 10) -19.80 | eps 0.819
+step    28347 | episode   30 | avg reward (last 10) -19.90 | eps 0.731
+step    37632 | episode   40 | avg reward (last 10) -20.40 | eps 0.642
+step    47198 | episode   50 | avg reward (last 10) -20.20 | eps 0.552
+step    56484 | episode   60 | avg reward (last 10) -20.30 | eps 0.463
+step    65441 | episode   70 | avg reward (last 10) -20.00 | eps 0.378
+step    75309 | episode   80 | avg reward (last 10) -19.80 | eps 0.285
+step    87518 | episode   90 | avg reward (last 10) -19.50 | eps 0.169
+step   100368 | episode  100 | avg reward (last 10) -19.20 | eps 0.050
+step   116803 | episode  110 | avg reward (last 10) -18.70 | eps 0.050
+step   135710 | episode  120 | avg reward (last 10) -18.80 | eps 0.050
+step   155789 | episode  130 | avg reward (last 10) -18.70 | eps 0.050
+step   181068 | episode  140 | avg reward (last 10) -16.60 | eps 0.050
+step   205227 | episode  150 | avg reward (last 10) -16.10 | eps 0.050
+step   228843 | episode  160 | avg reward (last 10) -17.10 | eps 0.050
+step   255825 | episode  170 | avg reward (last 10) -15.80 | eps 0.050
+step   279940 | episode  180 | avg reward (last 10) -17.80 | eps 0.050
+step   301854 | episode  190 | avg reward (last 10) -17.20 | eps 0.050
+step   326889 | episode  200 | avg reward (last 10) -15.40 | eps 0.050
+step   352774 | episode  210 | avg reward (last 10) -13.70 | eps 0.050
+step   377777 | episode  220 | avg reward (last 10) -13.30 | eps 0.050
+step   405132 | episode  230 | avg reward (last 10) -12.50 | eps 0.050
+step   433092 | episode  240 | avg reward (last 10) -10.80 | eps 0.050
+step   462580 | episode  250 | avg reward (last 10)  -9.30 | eps 0.050
+step   492843 | episode  260 | avg reward (last 10) -10.10 | eps 0.050
+Done. Saved model, log and plot to models/Jolly_Gift_Burabyo/exp_07
